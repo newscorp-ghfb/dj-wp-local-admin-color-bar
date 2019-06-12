@@ -1,5 +1,5 @@
 {
-    "name": "serverpress/local-admin-color-bar",
+    "name": "newscorp/dj-wp-local-admin-color-bar",
     "description": "Changes the Admin bar color.",
     "type": "wordpress-plugin",
     "license": "GPL",
